@@ -56,7 +56,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="titre">🚀 Odysse</h1>
+      <h1 className="titre">🔐 Odysse - Connexion</h1>
 
       <div className="carte">
         <div className="profil-haut">
