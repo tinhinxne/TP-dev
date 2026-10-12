@@ -7,3 +7,9 @@ Petite application React de gestion de tâches gamifiée (inspirée d'Odysse), r
     cd frontend
     npm install
     npm run dev
+
+
+## Fonctionnalités
+
+- Ajout de quêtes (tâches) avec une difficulté
+- Gain d'XP et passage de niveau
