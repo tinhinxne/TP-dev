@@ -56,8 +56,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="titre">🚀 Odysse</h1>
-
+           <h1 className="titre">🚀 Odysse - Mes quêtes</h1>
       <div className="carte">
         <div className="profil-haut">
           <span className="niveau">Niveau {niveau}</span>
