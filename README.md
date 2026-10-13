@@ -13,3 +13,5 @@ Petite application React de gestion de tâches gamifiée (inspirée d'Odysse), r
 
 - Ajout de quêtes (tâches) avec une difficulté
 - Gain d'XP et passage de niveau
+
+#Contribution  simulee par un collegue pour l'exercice 1.3
