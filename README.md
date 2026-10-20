@@ -1,2 +1,17 @@
-#TP DevOps - projet de binome
-# TP DevOps - Version Tinhinane
+# TP DevOps
+
+Petite application React de gestion de tâches gamifiée (inspirée d'Odysse), réalisée dans le cadre du TP Git du module DevOps (Université Abderrahmane-Mira de Béjaïa).
+
+## Lancer le projet
+
+    cd frontend
+    npm install
+    npm run dev
+
+
+## Fonctionnalités
+
+- Ajout de quêtes (tâches) avec une difficulté
+- Gain d'XP et passage de niveau
+
+#Contribution  simulee par un collegue pour l'exercice 1.3
