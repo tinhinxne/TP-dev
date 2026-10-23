@@ -15,3 +15,7 @@ Petite application React de gestion de tâches gamifiée (inspirée d'Odysse), r
 - Gain d'XP et passage de niveau
 
 #Contribution  simulee par un collegue pour l'exercice 1.3
+
+## Objectif du projet
+
+Ce dépôt permet de pratiquer les commandes Git et le travail collaboratif.
